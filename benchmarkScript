@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #paths to solvers
-pyglaf="~/solvers/pyglaf/pyglaf.py"
-ArgSemSAT="solvers/ArgSemSATS/ArgSemSAT"
+pyglaf="/home/ubuntu/solvers/pyglaf/pyglaf.py"
+ArgSemSAT="~/Solvers/ArgSemSATS/ArgSemSAT"
 
 #mapping of benchmark frameworks to tasks
 declare -a A=("DS-PR" "EE-PR" "EE-CO")
@@ -13,7 +13,7 @@ declare -a B=("DS-ST" "DC-ST" "SE-ST" "EE-ST" "DC-PR" "SE-PR" "DC-CO")
 for task in "${A[@]}"
 do	
 	start_time=`date +%s`
-	$pyglaf -f ~/A/1/sembuster_150.tgf -p task -fo tgf
+	(exec "$ArgSemSAT -f /home/ubuntu/A/1/sembuster_150.apx -p $task -fo apx")
 	end_time=`date +%s`
 	echo execution time was `expr $end_time - $start_time` s.
 done
