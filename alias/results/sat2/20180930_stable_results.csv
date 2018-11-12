@@ -1,0 +1,51 @@
+/home/szczocik/Workspaces/Benchmark/B/1/massachusetts_blockislandferry_2015-11-13.gml.80.tgf;2;1;0.0023915767669677734;0.009292364120483398;{frozenset({'a2'})}
+/home/szczocik/Workspaces/Benchmark/B/1/test.tgf;6;10;0.003357410430908203;0.0002906322479248047;{frozenset({'c', 'a', 'd'}), frozenset({'f', 'e', 'b'}), frozenset({'a', 'e', 'f', 'd'})}
+/home/szczocik/Workspaces/Benchmark/B/1/university-of-pretoria_20150805_1406.normalized.gml.80.tgf;13;17;0.004445791244506836;0.0032243728637695312;{frozenset({'a13', 'a3', 'a1', 'a5', 'a9', 'a11'}), frozenset({'a13', 'a3', 'a5', 'a4', 'a11', 'a7', 'a2'}), frozenset({'a1', 'a5', 'a4', 'a12', 'a2', 'a10'}), frozenset({'a13', 'a3', 'a1', 'a5', 'a4', 'a11', 'a2'}), frozenset({'a13', 'a3', 'a5', 'a4', 'a12', 'a7', 'a2'}), frozenset({'a5', 'a4', 'a11', 'a7', 'a2', 'a10'}), frozenset({'a13', 'a3', 'a5', 'a9', 'a12', 'a7'}), frozenset({'a13', 'a3', 'a1', 'a5', 'a4', 'a12', 'a2'}), frozenset({'a13', 'a3', 'a5', 'a9', 'a11', 'a7'}), frozenset({'a1', 'a5', 'a4', 'a11', 'a2', 'a10'}), frozenset({'a13', 'a3', 'a1', 'a5', 'a9', 'a12'}), frozenset({'a5', 'a4', 'a12', 'a7', 'a2', 'a10'})}
+/home/szczocik/Workspaces/Benchmark/B/1/afinput_exp_cycles_indvary3_step4_batch_yyy03.tgf;15;5;0.0032372474670410156;0.00010800361633300781;{frozenset({'13', '10', '1', '2', '8', '3', '0', '12', '14', '11'})}
+/home/szczocik/Workspaces/Benchmark/B/1/afinput_exp_acyclic_indvary3_step7_batch_yyy01.tgf;15;2;0.003010988235473633;8.416175842285156e-05;{frozenset({'12', '7', '2', '14', '0', '8', '11', '1', '5', '13', '3', '4', '10'})}
+/home/szczocik/Workspaces/Benchmark/B/1/massachusetts-archiver_20090912_0208.gml.50.tgf;34;58;0.009502410888671875;1200.0257477760315;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/BA_40_80_4.tgf;41;73;0.011293649673461914;1200.0223140716553;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/BA_40_30_3.tgf;41;53;0.009530067443847656;1200.0239429473877;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/BA_40_60_2.tgf;41;65;0.010206460952758789;1200.0161077976227;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/afinput_exp_cycles_indvary1_step8_batch_yyy08.tgf;41;216;0.025267601013183594;0.0012586116790771484;{frozenset({'21', '4', '25', '11', '32', '5', '37', '27', '1', '16', '38', '34', '19', '17', '20', '2', '10', '35', '23', '18', '29', '0', '40'})}
+/home/szczocik/Workspaces/Benchmark/B/1/sembuster_60.tgf;60;460;0.054659366607666016;1200.0250742435455;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/afinput_exp_acyclic_indvary1_step3_batch_yyy06.tgf;74;3427;0.4544258117675781;0.008583784103393555;{frozenset({'4', '51', '0', '55', '71', '18', '59'})}
+/home/szczocik/Workspaces/Benchmark/B/1/ER_100_50_6.tgf;101;2489;0.3526949882507324;888.5523409843445;set()
+/home/szczocik/Workspaces/Benchmark/B/1/ER_100_20_8.tgf;101;955;0.11174893379211426;1200.0222401618958;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/BA_100_20_1.tgf;101;121;0.01911616325378418;1200.0325350761414;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/BA_120_20_2.tgf;121;145;0.022646665573120117;1200.0187313556671;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/stb_138_162.tgf;138;1391;0.1953446865081787;1200.0342888832092;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/grd_156_3_6.tgf;156;409;0.05396294593811035;1200.026254415512;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/ferry2.pfile-L2-C1-02.pddl.2.cnf.tgf;160;279;0.038716793060302734;1200.0267968177795;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/stb_161_74.tgf;161;1400;0.18789124488830566;1200.0288240909576;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/stb_199_128.tgf;199;442;0.0644233226776123;1200.0200629234314;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/WS_200_14_30_70.tgf;200;1400;0.201063871383667;1200.0264077186584;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/ferry2.pfile-L2-C2-06.pddl.2.cnf.tgf;239;432;0.05843067169189453;1200.0306379795074;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/stb_245_206.tgf;245;649;0.08796238899230957;1200.031877040863;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/ferry2.pfile-L2-C2-08.pddl.2.cnf.tgf;276;500;0.0670020580291748;1200.0290203094482;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/ER_300_100_7.tgf;302;45305;35.312384366989136;0.18455934524536133;set()
+/home/szczocik/Workspaces/Benchmark/B/1/scc_359_50_5_17.tgf;359;2657;0.3763701915740967;1200.0360565185547;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/ferry2.pfile-L3-C1-04.pddl.3.cnf.tgf;373;647;0.08918452262878418;1200.0377082824707;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/afinput_exp_acyclic_depvary_step5_batch_yyy08.tgf;384;133973;162.09381127357483;1.644092321395874;{frozenset({'262', '76', '225', '46', '11', '5', '97', '132', '191', '36', '103', '214', '100', '72', '355'})}
+/home/szczocik/Workspaces/Benchmark/B/1/WS_400_8_30_30.tgf;400;1600;0.23250985145568848;1200.025951385498;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/WS_400_8_10_70.tgf;400;1600;0.23507905006408691;1200.033986568451;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/WS_400_8_70_10.tgf;400;1600;0.23084259033203125;1200.0342528820038;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/ER_400_100_8.tgf;402;80398;108.7646758556366;0.36446428298950195;set()
+/home/szczocik/Workspaces/Benchmark/B/1/ER_400_100_9.tgf;402;80386;109.20522975921631;0.36493897438049316;set()
+/home/szczocik/Workspaces/Benchmark/B/1/scc_411_40_10_23.tgf;411;5165;0.868999719619751;1200.0322241783142;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/WS_500_8_50_70.tgf;500;2000;0.3018050193786621;1200.0348970890045;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/sembuster_600.tgf;600;40600;28.037447214126587;1200.0259091854095;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/scc_669_70_10_21.tgf;669;20208;6.4310667514801025;1200.031806230545;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/ferry2.pfile-L2-C4-07.pddl.3.cnf.tgf;754;1336;0.20379066467285156;1200.0339376926422;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/scc_874_30_20_25.tgf;874;28768;14.677451133728027;1200.0350167751312;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/sembuster_900.tgf;900;90900;131.27734470367432;1200.0407927036285;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/empresa-publica-de-transportes-e-circulao_20141104_0243.gml.20.tgf;930;2577;0.3827400207519531;1200.0330324172974;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/admbuster_1000.tgf;1000;1498;0.2397139072418213;1200.0255241394043;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/sembuster_1200.tgf;1200;161200;412.0478413105011;1200.0433955192566;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/grd_1892_1_3.tgf;1892;17773;6.376925468444824;1200.0256276130676;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/grd_1948_5_1.tgf;1948;94841;152.36397528648376;1200.027044057846;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/admbuster_2000.tgf;2000;2998;0.5335602760314941;1200.0282235145569;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/omnitrans_20151217_1124.gml.20.tgf;2188;3028;0.5186614990234375;1200.042949438095;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/grd_3018_3_7.tgf;3018;137019;314.2628011703491;1200.0187697410583;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/admbuster_20000.tgf;20000;29998;17.623759746551514;1243.950832605362;Timed out!
+/home/szczocik/Workspaces/Benchmark/B/1/admbuster_50000.tgf;50000;74998;101.2631504535675;1353.904410123825;Timed out!
